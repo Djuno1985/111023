@@ -1,0 +1,15 @@
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/bin/Debug/net6.0/Exampel003_sum
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/bin/Debug/net6.0/Exampel003_sum.deps.json
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/bin/Debug/net6.0/Exampel003_sum.runtimeconfig.json
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/bin/Debug/net6.0/Exampel003_sum.dll
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/bin/Debug/net6.0/Exampel003_sum.pdb
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.csproj.AssemblyReference.cache
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.AssemblyInfoInputs.cache
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.AssemblyInfo.cs
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.csproj.CoreCompileInputs.cache
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.dll
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/refint/Exampel003_sum.dll
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.pdb
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/Exampel003_sum.genruntimeconfig.cache
+/Users/uliakornilova/Documents/Учеба/Examples/Exampel003_sum/obj/Debug/net6.0/ref/Exampel003_sum.dll
